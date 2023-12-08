@@ -159,9 +159,7 @@ SP
     padding: 0 10px;
   }
   .main-img{
-    width:70%;
-    height:30%;
-    object-fit: cover;
+    width: 100%;
   }
   /*-------------------------------------------
   Detail
