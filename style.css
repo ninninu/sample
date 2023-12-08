@@ -101,6 +101,8 @@ Detail
 }
 #detail .content .img {
   width: 270px;
+  height: 270px;
+  object-fit: cover;
   margin-right: 60px;
 }
 #detail .content .text p {
@@ -156,7 +158,11 @@ SP
   #mainvisual {
     padding: 0 10px;
   }
-
+  .main-img{
+    width:70%;
+    height:30%;
+    object-fit: cover;
+  }
   /*-------------------------------------------
   Detail
   -------------------------------------------*/
